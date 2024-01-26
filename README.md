@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @L1nkStart
 - 👀 I’m interested in Learning 
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web development
 - 📫 Email me: eduar06tae@gmail.com 
 
