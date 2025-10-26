@@ -60,7 +60,5 @@ Puedes encontrarme y conectar conmigo aquí:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L1nkStart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Eduardo" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkStart&layout=compact&langs_count=6&theme=dracula" alt="Lenguajes más usados" />
 </p>
