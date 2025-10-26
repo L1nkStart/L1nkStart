@@ -46,12 +46,9 @@ Soy un fanático de **TypeScript** y me muevo como pez en el agua con las tecnol
 ---
 
 
-Si tienes una idea o un problema que la tecnología puede resolver, **¡hablemos!**
-
----
-
 ## 📫 Contacto
 
+Si tienes una idea o un problema que la tecnología puede resolver, **¡hablemos!**.
 Puedes encontrarme y conectar conmigo aquí:
 
 * **LinkedIn:** `https://www.linkedin.com/in/eduardo-tovar-34a816204/`
